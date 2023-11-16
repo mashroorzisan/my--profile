@@ -2,11 +2,10 @@
 ## I'm a Learner, Problem Solver, Physics lover and Teacher!!!
 
 - 🥅 2024 Goals:
-                 1. publish at least one paper
-                    2. get a job/inter as a web developer or any realted sort
-                       3. learn DSA and Database
-                          4. complete these courses perfectly- i. 100 Days of Python by Angela Yu
-                                                                ii. Phitron- Cse Fundamentals     
+  01. publish at least one paper
+  02. get a job/inter as a web developer or any realted sort
+  03. learn DSA and Database
+  04. complete these courses perfectly- i. || 100 Days of Python by Angela Yu || ii. || Phitron- Cse Fundamentals ||     
 
 
 - 🔭 I’m currently working on [Real Estate App](https://github.com/mashroorzisan/real-estate-app)
