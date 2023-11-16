@@ -1,4 +1,3 @@
-# A regular guy with morning rituals and some big dreams
 <h1 align="center">Hello universe this is Zisan</h1>
 <h3 align="center">Hey there! I'm just another Joe with a thirst of solving problems and chasing some big dreams. Picture this: scientist/physicist in the making, gazing at the stars, wanna find what is the secret of the universe. Did I mention my love for music? Let's enjoy the ride together!</h3>
 
