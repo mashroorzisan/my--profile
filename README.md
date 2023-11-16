@@ -1,5 +1,12 @@
-<h1 align="center">Hello universe this is Zisan</h1>
-<h3 align="center">Hey there! I'm just another Joe with a thirst of solving problems and chasing some big dreams. Picture this: scientist/physicist in the making, gazing at the stars, wanna find what is the secret of the universe. Did I mention my love for music? Let's enjoy the ride together!</h3>
+<h1 align="center">Hello universe!! This is Zisan</h1>
+## I'm a Learner, Problem Solver, Physics lover and Teacher!!!
+
+- 🥅 2024 Goals:
+                 1. publish at least one paper
+                    2. get a job/inter as a web developer or any realted sort
+                       3. learn DSA and Database
+                          4. complete these courses perfectly- i. 100 Days of Python by Angela Yu
+                                                                ii. Phitron- Cse Fundamentals     
 
 
 - 🔭 I’m currently working on [Real Estate App](https://github.com/mashroorzisan/real-estate-app)
@@ -33,3 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashroorzisan&" alt="mashroorzisan" /></p>
 
+
+## Did I mention that I play guitar ?
